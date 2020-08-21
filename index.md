@@ -1,5 +1,11 @@
-## Diabotical District
-[Join Discord](https://discord.gg/WvwtGzP)
+## Welcome to Diabotical District
+
+Our community aims to give new and less experienced Diabotical players the opportunity to enjoy regular competitive match play and connect with other players to train and improve their game. 
+
+The league is designed primarily for fun but it's also a great way to learn and track your progress. Matches will be live on Twitch with casting. 
+
+We hope this community can help bring fresh players to the game and demystify the basics of AFPS to share what we love about this genre.  
+[Sound good? Join Our Discord](https://discord.gg/WvwtGzP)
 
 ```markdown
 Syntax highlighted code block
