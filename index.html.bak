@@ -11,11 +11,9 @@
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
-
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
       type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
-
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
       rel="stylesheet" type="text/css">
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet">
@@ -24,34 +22,25 @@
     <!-- Masthead-->
     <!-- About Section-->
     <section class="page-section bg-primary text-white mb-0" id="about">
-      <div class="container">
-    <div class="row">
-        <div class="col-4">
-          <div class="text-center">
-             <img src="assets/img/dbt1.png" alt=""
-
-          style="margin-left: 228px; width: 190px;">
-          </div>     
-        </div>
-    </div>
-</div>
-        <h2 class="page-section-heading text-center text-uppercase text-white">Diabotical
-          District</h2>
-        <!-- Icon Divider-->
-        <div class="divider-custom divider-light"> </div>
-        <!-- About Section Content-->
+      <div class="row">
+        <div class="col-4 mx-auto text-center"> <img src="assets/img/dbt1.png"
+            style="width: 170px; height: 170px;"> </div>
+      </div>
+      <div class="col-8 mx-auto text-center">
+        <h1>DIABOTICAL DISTRICT</h1>
+      </div>
+      <div class="container-sm">
         <p class="lead" style="text-align: left;">DD is a friendly and helpful
-          community for new and intermediate Diabotical players where you can
-          enjoy regular competitive match play and connect with others to train
-          and improve.</p>
+          community for new and lower rank Diabotical players. We offer regular
+          competitive match play through our league with lots of chances to frag
+          and train with vets and noobs alike.</p>
         <p class="lead" style="text-align: left;">Our competitive league for
           players from Explorer to Sentinel rank is designed primarily for fun
-          but it's also a great way to learn and track your progress. Matches
-          will be cast live on Twitch. Join our Discord to get involved!</p>
-        <div class="text-center mt-4"> <a class="btn btn-xl btn-outline-light"
-
-            href="https://discord.gg/WvwtGzP"> Join Us </a> </div>
+          but is also a great way to learn and track your progress. Matches will
+          be cast live on Twitch. Join our Discord to get involved!</p>
       </div>
+      <div class="text-center mt-4"> <a class="btn btn-xl btn-outline-light" href="https://discord.gg/WvwtGzP">
+          Join Us </a> </div>
       <div class="container"><br>
       </div>
       <div class="divider-custom divider-light">
