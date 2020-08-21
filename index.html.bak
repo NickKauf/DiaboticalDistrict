@@ -11,21 +11,19 @@
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
-
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"
       type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
-
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
       rel="stylesheet" type="text/css">
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet">
   </head>
-  <body id="page-top"> <!-- Masthead-->
+  <body id="page-top">
+    <!-- Masthead-->
     <!-- About Section-->
     <section class="page-section bg-primary text-white mb-0" id="about">
       <div class="row">
-        <div class="col-4 mx-auto text-center"> <img src="assets/img/dbt1.png"
-
+        <div class="col-4 mx-auto text-center"> <img src="assets/img/dbt1.png"
             style="width: 170px; height: 170px;"> </div>
       </div>
       <div class="col-8 mx-auto text-center">
@@ -49,11 +47,19 @@
         <div class="divider-custom-line"></div>
         <div class="divider-custom-line"></div>
       </div>
-      <br>
       <h2 style=" text-align: center;">League Schedule</h2>
-      <p><br>
-      </p>
-      <h1> </h1>
+      <div class="divider-custom divider-light">
+        <div class="divider-custom-line"></div>
+        <div class="divider-custom-line"></div>
+      </div>
+      <h5 style="   text-align: center;">EU Signups OPEN (Less than 7 slots
+        remaining! groups not final)</h5>
+      <div class="col-8 mx-auto text-center"><iframe src="https://widget.toornament.com/tournaments/3832231569306492928/registration?_locale=en_US&amp;theme=light"
+          allowfullscreen="" height="88" frameborder="0" width="300"></iframe><iframe
+          src="https://widget.toornament.com/tournaments/3832231569306492928/stages/3832323700961345536/?_locale=en_US"
+          allowfullscreen="" height="360" frameborder="0" width="640"></iframe>
+      </div>
+      <h5 style="   text-align: center;">NA Signups (Coming Soon)</h5>
     </section>
     <!-- Bootstrap core JS-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
