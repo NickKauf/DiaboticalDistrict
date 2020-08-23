@@ -21,8 +21,8 @@
     <!-- Masthead-->
     <!-- About Section-->
     <section class="page-section bg-primary text-white mb-0" id="about">
-      <div class="col-8 mx-auto text-center"> <img src="file:///C:/Users/NDK87/Documents/GitHub/DiaboticalDistrict/assets/img/test1.png"
-          alt="Diabotical District" title="Diabotical District"></div>
+      <div class="col-8 mx-auto text-center"> <img src="assets/img/test1.png" alt="Diabotical District"
+          title="Diabotical District"></div>
       <div class="col-8 mx-auto text-center"><br>
       </div>
       <div class="container-sm">
