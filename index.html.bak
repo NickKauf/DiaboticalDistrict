@@ -21,7 +21,7 @@
     <!-- Masthead-->
     <!-- About Section-->
     <section class="page-section bg-primary text-white mb-0" id="about">
-      <div class="col-8 mx-auto text-center"> <img src="assets/img/234498158716125184.png"><img
+      <div class="col-8 mx-auto text-center"> <img src="assets/img/orange.png"><img
           src="assets/img/Diabotical1.png" style="width: 455px; height: 76px;">
         <br>
         <div class="container-sm">
@@ -68,6 +68,7 @@
           <iframe src="https://widget.toornament.com/tournaments/3849577914096812032/stages/3852380110297890816/?_locale=en_US"
             allowfullscreen="" height="330" frameborder="0" width="300"></iframe>
         </div>
+		<div class="col-8 mx-auto text-center"> <iframe src="https://calendar.google.com/calendar/embed?src=r2lrnrvr3rogrg652333pnav88%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="300" height="400" frameborder="0" scrolling="no"></iframe></div>
       </div>
     </section>
     <!-- Bootstrap core JS-->
