@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -7,7 +6,7 @@
     <meta name="author" content="">
     <title>Diabotical District</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="assets/img/dbticon.ico">
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
@@ -44,21 +43,23 @@
         <div class="divider-custom-line"></div>
       </div>
       <h2 style=" text-align: center;">League Schedule</h2>
+      <h6 style="  text-align: center;">Both September leagues have filled! Join
+        our Discord above to be notified if slots open again.</h6>
+      <p></p>
       <div class="divider-custom divider-light">
         <div class="divider-custom-line"></div>
         <div class="divider-custom-line"></div>
       </div>
-      <h5 style="   text-align: center;">EU Signups OPEN (groups not final)</h5>
+      <h5 style="   text-align: center;">EU Signups CLOSED (groups not final)</h5>
       <div class="col-8 mx-auto text-center"><iframe src="https://widget.toornament.com/tournaments/3832231569306492928/?_locale=en_US"
           allowfullscreen="" height="330" frameborder="0" width="300"></iframe><iframe
           src="https://widget.toornament.com/tournaments/3832231569306492928/stages/3832323700961345536/?_locale=en_US"
           allowfullscreen="" height="330" frameborder="0" width="300"></iframe>
       </div>
-      <h5 style="   text-align: center;">NA Signups OPEN (groups not final)</h5>
+      <h5 style="   text-align: center;">NA Signups CLOSED (groups not final)</h5>
       <div class="col-8 mx-auto text-center"><iframe src="https://widget.toornament.com/tournaments/3849577914096812032/?_locale=en_US"
           allowfullscreen="" height="330" frameborder="0" width="300"></iframe>
-      </div>
-      <div class="col-8 mx-auto text-center"><iframe src="https://widget.toornament.com/tournaments/3849577914096812032/stages/3852380110297890816/?_locale=en_US"
+        <iframe src="https://widget.toornament.com/tournaments/3849577914096812032/stages/3852380110297890816/?_locale=en_US"
           allowfullscreen="" height="330" frameborder="0" width="300"></iframe>
       </div>
     </section>
